@@ -47,7 +47,7 @@ create database desafioPubFuture;
 ```
 mvn install
 ```
-Documentação(https://github.com/Jbisatto/Cursos-Java/wiki/Funcionabilidade)
+Documentação(https://github.com/Jbisatto/Cursos-Java/wiki/)
 ### Em desenvolvimeto...
 # Projeto back-end com Spring Boot para Controle de Pedidos e Delivery
 
