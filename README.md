@@ -20,6 +20,10 @@ Projeto para Controle de Finanças usando o conceito uma API REST criada usando 
 ```bash
 git clone https://github.com
 ```
+**2. Executar o projeto no maven**
+```
+mvn install
+```
 ## Banco de dados
 **1. Criar um database Mysql database**
 
@@ -44,8 +48,6 @@ create database desafioPubFuture;
 
 
 ## Project setup
-```
-mvn install
-```
+
 ## [Funcionabilidade](https://github.com/Jbisatto/Cursos-Java/wiki/)
 
