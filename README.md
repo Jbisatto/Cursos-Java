@@ -40,7 +40,8 @@ create database desafioPubFuture;
 ```
 
 **2. Utilize o script MySQL contido no arquivo _data.sql_ para criar e popular o banco de dados**
-
+  `src/main/resources/data.sql
+`
 **3. Configuração de login do Mysql:**
 
 + abrir `src/main/resources/application.properties`
