@@ -21,9 +21,18 @@ Projeto para Controle de Finanças usando o conceito uma API REST criada usando 
 git clone https://github.com
 ```
 **2. Executar o projeto no Maven**
+```bash
+mvn package
+java -jar target/easy-notes-1.0.0.jar
 ```
-mvn install
+
+Alternatively, you can run the app without packaging it using -
+
+```bash
+mvn spring-boot:run
 ```
+
+The app will start running at <http://localhost:8080>
 ## Banco de dados
 **1. Criar um database Mysql database**
 
