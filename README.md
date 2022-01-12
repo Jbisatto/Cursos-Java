@@ -34,19 +34,13 @@ mvn spring-boot:run
 
 The app will start running at <http://localhost:8080>
 ## Banco de dados
-**1. Criar um database Mysql database**
+**1. Criar no Mysql um banco de dados com o nome _desafioPubFuture_**
 
 ```bash
 create database desafioPubFuture;
 ```
 
-Utilize o script MySQL contido no arquivo **data.sql** para criar e popular o Banco de Dados.
-
-**2. Criar um database Mysql database**
-
-```bash
-create database desafioPubFuture;
-```
+**2. Utilize o script MySQL contido no arquivo _data.sql_ para criar e popular o banco de dados**
 
 **3. Configuração de login do Mysql:**
 
