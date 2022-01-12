@@ -20,7 +20,7 @@ Projeto para Controle de Finanças usando o conceito uma API REST criada usando 
 ```bash
 git clone https://github.com
 ```
-**2. Executar o projeto no maven**
+**2. Executar o projeto no Maven**
 ```
 mvn install
 ```
@@ -45,9 +45,6 @@ create database desafioPubFuture;
 
 + altere `spring.datasource.username` e `spring.datasource.password`  de acordo com a instalação do seu Mysql
 
-
-
-## Project setup
 
 ## [Funcionabilidade](https://github.com/Jbisatto/Cursos-Java/wiki/)
 
