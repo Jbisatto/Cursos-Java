@@ -26,13 +26,12 @@ mvn package
 java -jar target/easy-notes-1.0.0.jar
 ```
 
-Alternatively, you can run the app without packaging it using -
+Outra alternativa:
 
 ```bash
 mvn spring-boot:run
 ```
 
-The app will start running at <http://localhost:8080>
 ## Banco de dados
 **1. Criar no Mysql um banco de dados com o nome _desafioPubFuture_**
 
