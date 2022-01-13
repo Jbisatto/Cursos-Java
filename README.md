@@ -1,6 +1,6 @@
 # Controle de Finanças
 
-Projeto para Controle de Finanças usando o conceito uma API REST criada usando Spring Boot e Spring Data JPAcom banco de dados Mysql. Esse projeto faz parte e um desafio da Pub  Future onde o que priorizado nesse projeto foi o back-end.
+Projeto para Controle de Finanças usando o conceito uma API REST criada usando Spring Boot e Spring Data JPA com banco de dados Mysql. Esse projeto faz parte e um desafio da Pub  Future onde o que priorizado nesse projeto foi o back-end.
 
 ## Requirementos
 
@@ -50,4 +50,42 @@ create database desafioPubFuture;
 
 
 ## [Funcionabilidade](https://github.com/Jbisatto/Cursos-Java/wiki/)
+Como o projeto foi feita apenas o back-end, para testar suas funcionabilidade foi usado o Postman. O projeto apresenta as seguintes funções:
+
+
+### [Receitas](https://github.com/Jbisatto/Cursos-Java/wiki/Receitas)
+
+*  Cadastrar receitas
+
+*  Editar receitas
+
+*  Remover receitas
+
+*  Listar receitas
+  >*  Filtro por período (dataInicial – dataFinal)
+  >*  Filtro por tipo de receita
+
+*  Listar total de receitas
+
+### [Despesas](https://github.com/Jbisatto/Cursos-Java/wiki/Despesas)
+
+* Cadastrar despesas
+
+*  Editar despesas
+
+*  Remover despesas
+
+*  Listar despesas
+  >*  Filtro por período (dataInicial – dataFinal)
+ >*  Filtro por tipo de despesa
+
+*  Listar total de despesas
+
+### [Contas](https://github.com/Jbisatto/Cursos-Java/wiki/Conta)
+*  Cadastrar conta
+*  Editar conta
+*  Remover conta
+*  Listar contas
+*  Transferir saldo entre contas
+*  Listar saldo total
 
