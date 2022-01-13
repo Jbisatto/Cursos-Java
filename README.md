@@ -32,18 +32,18 @@ Após a instação das dependência execute o camando:
 java -jar target/desafiopubfut-0.0.1-SNAPSHOT.jar
 ```
 
-## Banco de dados
-**1. Criar no Mysql um banco de dados com o nome _desafioPubFuture_**
+### Banco de dados
+**3. Criar no Mysql um banco de dados com o nome _desafioPubFuture_**
 
 ```bash
 create database desafiopubfuture;
 ```
 
-**2. Utilize o script MySQL contido no arquivo _data.sql_ para criar e popular o banco de dados**
+**4. Utilize o script MySQL contido no arquivo _data.sql_ para criar e popular o banco de dados**
 
   `src/main/resources/data.sql`
   
-**3. Configuração de login do Mysql:**
+**5. Configuração de login do Mysql:**
 
 + abrir `src/main/resources/application.properties`
 
