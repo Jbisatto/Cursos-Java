@@ -68,7 +68,7 @@ Como o projeto foi feita apenas o back-end, para testar suas funcionabilidade fo
 
 *  Listar total de receitas
 
-### [Despesas](https://github.com/Jbisatto/Cursos-Java/wiki/Despesas)
+### [Despesas](https://github.com/Jbisatto/Cursos-Java/blob/main/docs/Despesa.md)
 
 * Cadastrar despesas
 
