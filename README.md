@@ -36,7 +36,7 @@ mvn spring-boot:run
 **1. Criar no Mysql um banco de dados com o nome _desafioPubFuture_**
 
 ```bash
-create database desafioPubFuture;
+create database desafiopubfuture;
 ```
 
 **2. Utilize o script MySQL contido no arquivo _data.sql_ para criar e popular o banco de dados**
@@ -49,7 +49,7 @@ create database desafioPubFuture;
 + altere `spring.datasource.username` e `spring.datasource.password`  de acordo com a instalação do seu Mysql
 
 
-## [Funcionabilidade](https://github.com/Jbisatto/Cursos-Java/wiki/)
+## Funcionabilidade
 Como o projeto foi feita apenas o back-end, para testar suas funcionabilidade foi usado o Postman. O projeto apresenta as seguintes funções:
 
 
