@@ -54,7 +54,7 @@ create database desafiopubfuture;
 Como o projeto foi feita apenas o back-end, para testar suas funcionabilidade foi usado o Postman. O projeto apresenta as seguintes funções:
 
 
-### [Receitas](https://github.com/Jbisatto/Cursos-Java/wiki/Receitas)
+### [Receitas](https://github.com/Jbisatto/Cursos-Java/blob/main/docs/Receita.md)
 
 *  Cadastrar receitas
 
