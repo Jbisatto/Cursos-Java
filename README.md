@@ -21,6 +21,7 @@ Projeto para Controle de Finanças usando o conceito uma API REST criada usando 
 git clone https://github.com/Jbisatto/desafiopubfuture.git
 ```
 **2. Executar o projeto no Maven**
+
 Dentro da pasta principal do projeto abra um terminal de comando e execute os seguites comandos:
 ```bash
 ./mvnw install
