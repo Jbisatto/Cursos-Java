@@ -1,4 +1,4 @@
-# Receita
+# Receitas
 
 ### Cadastrar receitas
 
