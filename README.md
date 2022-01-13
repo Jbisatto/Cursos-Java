@@ -21,15 +21,14 @@ Projeto para Controle de Finanças usando o conceito uma API REST criada usando 
 git clone https://github.com/Jbisatto/desafiopubfuture.git
 ```
 **2. Executar o projeto no Maven**
+Dentro da pasta principal do projeto abra um terminal de comando e execute os seguites comandos:
 ```bash
-mvn package
-java -jar target/easy-notes-1.0.0.jar
+./mvnw install
 ```
-
-Outra alternativa:
+Após a instação das dependência execute o camando:
 
 ```bash
-mvn spring-boot:run
+java -jar target/desafiopubfut-0.0.1-SNAPSHOT.jar
 ```
 
 ## Banco de dados
@@ -40,8 +39,9 @@ create database desafiopubfuture;
 ```
 
 **2. Utilize o script MySQL contido no arquivo _data.sql_ para criar e popular o banco de dados**
-  `src/main/resources/data.sql
-`
+
+  `src/main/resources/data.sql`
+  
 **3. Configuração de login do Mysql:**
 
 + abrir `src/main/resources/application.properties`
