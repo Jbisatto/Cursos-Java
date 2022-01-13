@@ -18,7 +18,7 @@ Projeto para Controle de Finanças usando o conceito uma API REST criada usando 
 **1. Clonar a aplicação**
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Jbisatto/desafiopubfuture.git
 ```
 **2. Executar o projeto no Maven**
 ```bash
